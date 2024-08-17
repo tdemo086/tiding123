@@ -1,0 +1,12 @@
+flask_blog/
+│
+├── app.py
+├── templates/
+│   ├── home.html
+│   ├── write_blog.html
+│   ├── view_blog.html
+│
+├── static/
+│   └── style.css
+│
+└── blog.db
